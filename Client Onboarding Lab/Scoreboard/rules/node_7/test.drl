@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
+  <name>test</name>
+  <uuid>d4251cf4-b5ad-4368-a2aa-617824efb367</uuid>
+  <locale>en_US</locale>
+  <definition><![CDATA[set decision to the MLTest computed from
+     Client information being Client , 
+     Industry being Industry ;]]></definition>
+</ilog.rules.studio.model.brl:ActionRule>
